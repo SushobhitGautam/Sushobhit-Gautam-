@@ -1,27 +1,37 @@
-<h1 align="center">Hi 👋, I'm Sushobhit Gautam</h1>
-<h3 align="center">🚀 Flutter Developer | CS Student | Tech Enthusiast</h3>
+<h1 align="center">Hey there 👋, I'm Sushobhit Gautam</h1>
+<h3 align="center">🚀 Flutter Developer | 💡 CS Student | 📱 App Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Flutter+Apps;Exploring+APIs+%26+Firebase;Passionate+About+Clean+UI+%26+UX&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAB&width=435&lines=Flutter+Developer;UI%2FUX+Lover;Building+beautiful+mobile+apps;Learning+Git%2C+Firebase%2C+APIs" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 💻 About Me
 
-- 🎓 CS undergrad | Currently in 6th semester  
-- 📱 Passionate about Flutter & cross-platform app development    
-- 🔗 Exploring backend integration using Firebase and REST APIs  
-- 🚀 Actively learning Git, GitHub, and app deployment  
-- 🧠 Always curious to learn and build something new!
+- 🎓 I'm currently pursuing B.Tech in Computer Science (6th Semester)
+- 📱 Passionate about Flutter and building smooth cross-platform UIs
+- 🔧 Working with **sqflite**, **Firebase**, and **REST APIs**
+- 🌱 Currently learning Git & GitHub for version control and collaboration
+- 👨‍💻 Open to internships and collaborative app projects
 
 ---
 
-### 🔧 Tech Stack
+## ⚒️ Tech Stack
 
 ```dart
 Languages:     Dart, C , C++
 Frameworks:    Flutter
-Database:      Sqflite, Firebase Firestore
+Databases:     Sqflite, Firebase Firestore
 Tools:         Git, GitHub, VS Code, Android Studio
-Others:        REST APIs, Shared Preferences, State Management
+
+
+📫 Connect With Me
+📍 LinkedIn: linkedlin.com/in/sushobhit-gautam
+
+📧 Email: sushobhitg12@gmail.com
+
+🐙 Contact: 9138052548
+
+
+
