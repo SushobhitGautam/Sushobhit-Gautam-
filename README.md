@@ -26,12 +26,5 @@ Databases:     Sqflite, Firebase Firestore
 Tools:         Git, GitHub, VS Code, Android Studio
 
 
-📫 Connect With Me
-📍 LinkedIn: http://linkedin.com/in/sushobhit-gautam
-
-📧 Email: sushobhitg12@gmail.com
-
-🐙 Contact: 9138052548
-
 
 
