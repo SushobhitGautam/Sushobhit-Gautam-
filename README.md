@@ -27,7 +27,7 @@ Tools:         Git, GitHub, VS Code, Android Studio
 
 
 📫 Connect With Me
-📍 LinkedIn: linkedlin.com/in/sushobhit-gautam
+📍 LinkedIn: http://linkedin.com/in/sushobhit-gautam
 
 📧 Email: sushobhitg12@gmail.com
 
