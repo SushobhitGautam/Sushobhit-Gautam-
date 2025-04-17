@@ -10,8 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 CS undergrad | Currently in 6th semester  
-- 📱 Passionate about Flutter & cross-platform app development  
-- 💾 Love working with **local databases** like `sqflite`  
+- 📱 Passionate about Flutter & cross-platform app development    
 - 🔗 Exploring backend integration using Firebase and REST APIs  
 - 🚀 Actively learning Git, GitHub, and app deployment  
 - 🧠 Always curious to learn and build something new!
@@ -21,7 +20,7 @@
 ### 🔧 Tech Stack
 
 ```dart
-Languages:     Dart, Java, C++
+Languages:     Dart, C , C++
 Frameworks:    Flutter
 Database:      Sqflite, Firebase Firestore
 Tools:         Git, GitHub, VS Code, Android Studio
