@@ -1,10 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Sushobhit Gautam</h1>
 <h3 align="center">🚀 Flutter Developer | 💡 CS Student | 📱 App Builder</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAB&width=435&lines=Flutter+Developer;UI%2FUX+Lover;Building+beautiful+mobile+apps;Learning+Git%2C+Firebase%2C+APIs" alt="Typing SVG" />
-</p>
-
+</div>
 ---
 
 ## 💻 About Me
