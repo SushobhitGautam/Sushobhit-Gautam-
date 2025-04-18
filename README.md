@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Flutter Developer | 💡 CS Student | 📱 App Builder</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code &size=20 &pause=1000 &color=00FFAB &width=500 &lines=Flutter+Developer;UI%2FUX+Lover;Building+beautiful+mobile+apps;Learning+Git%2C+Firebase%2C+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAB&width=500&lines=Flutter+Developer;UI%2FUX+Lover;Building+beautiful+mobile+apps;Learning+Git%2C+Firebase%2C+APIs" alt="Typing SVG" />
 </div>
 ---
 
